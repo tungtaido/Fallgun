@@ -654,7 +654,7 @@
     "_prefab": null,
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": -779.267,
+      "x": -837.221,
       "y": -473.931,
       "z": 0
     },
@@ -698,7 +698,7 @@
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
-      "x": 0.5,
+      "x": 0,
       "y": 0.5
     },
     "_id": "87a8PPSb5Kk61yUnogAXrn"
